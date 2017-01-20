@@ -19,7 +19,6 @@
   },
   "author": "tyler yonke",
   "license": "ISC",
-  "start": "node server.js",
   "bugs": {
     "url": "https://github.com/tyleryonke/FriendFinder/issues"
   },
