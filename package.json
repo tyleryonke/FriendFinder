@@ -19,8 +19,12 @@
   },
   "author": "tyler yonke",
   "license": "ISC",
+  "start": "node server.js",
   "bugs": {
     "url": "https://github.com/tyleryonke/FriendFinder/issues"
+  },
+  "engines": {
+    "node": "6.9.4"
   },
   "homepage": "https://github.com/tyleryonke/FriendFinder#readme"
 }
